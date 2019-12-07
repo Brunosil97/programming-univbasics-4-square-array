@@ -24,4 +24,4 @@ end
 
 #this is wrong 
 
-#So note for the future. The right side of << is what I wish to put in the left side. Square rooted numbers into the results array.
+#So note for the future. The right side of << is what I wish to put in the left side. Square rooted numbers into the results array. 
