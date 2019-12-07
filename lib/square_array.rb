@@ -6,7 +6,7 @@ def square_array(array)
  array[counter] * array[counter] << results 
    counter +=1 
   end
-  puts results 
+results 
 end
 
 # ** 2 means square rooting to the power two. The second power 
